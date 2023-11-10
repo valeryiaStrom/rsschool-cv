@@ -5,7 +5,7 @@
 __*phone:*__ [+375296945254](tel:+375296945254)   
 __*email:*__ [lerastrom1@gmail.com](mailto:lerastrom1@gmail.com)  
 __*Telegram:*__ @valeryia_strom
-[__*Linkedin__*](https://www.linkedin.com/in/valeryia-strom-2112bb184/)
+[Linkedin](https://www.linkedin.com/in/valeryia-strom-2112bb184/)
 
 ## Summary
 I've been working at [EPAM Systems](https://www.epam.com/) for 7 years.
