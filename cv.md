@@ -39,7 +39,7 @@ And now I do test automation in Javascript, and decided to try myself once again
   * SQL Basics
 
 ## Code Examples
-**It was one of the tasks from RSS2019Q3**
+**It was one of the tasks from RSS2019Q3**<br>
 _Implement function, that for given two numbers, presented as strings will return their product as string_
 
 ```javascript
