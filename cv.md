@@ -1,7 +1,7 @@
 # Valeryia Strom
 ## Senior Software Test Automation Engineer in JS
 
-![my photo for CV](./assets/images/cv-photo.png){:height="400px" width="500px"}
+![my photo for CV](./assets/images/cv-photo.png|width=500 height=400)
 
 ## Contact Info 
 __*phone:*__ [+375296945254](tel:+375296945254)   
