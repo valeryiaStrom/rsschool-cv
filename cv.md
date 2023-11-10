@@ -39,7 +39,16 @@ And now I do test automation in Javascript, and decided to try myself once again
   * SQL Basics
 
 ## Code Examples
+**It was one of the tasks from RSS2019Q3**
+_Implement function, that for given two numbers, presented as strings will return their product as string_
+
 ```javascript
+function multiply(first, second) {
+  let firstNumber = BigInt(first);
+  let secondNumber = BigInt(second);
+  let product = firstNumber * secondNumber;
+  return product.toString();
+}
 ```
 ## Courses & Education
 - BSU Faculty of Economics (2011 - 2015)
