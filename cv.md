@@ -4,7 +4,7 @@
 ## Contact Info 
 __*phone:*__ [+375296945254](tel:+375296945254)   
 __*email:*__ [lerastrom1@gmail.com](mailto:lerastrom1@gmail.com)  
-__*Telegram:*__ @valeryia_strom
+__*Telegram:*__ @valeryia_strom<br>
 [Linkedin](https://www.linkedin.com/in/valeryia-strom-2112bb184/)
 
 ## Summary
