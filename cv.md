@@ -8,11 +8,10 @@ __*Telegram:*__ @valeryia_strom<br>
 [Linkedin](https://www.linkedin.com/in/valeryia-strom-2112bb184/)
 
 ## Summary
-I've been working at [EPAM Systems](https://www.epam.com/) for 7 years.
-First 3 years I worked as a Software Quality Engineer.
-I reached a Senior QA Position and in 2019 I participated in Rolling Scopes school (2019Q3), which is something quite important to me.
-Despite the fact that I didn't manage to complete the program, I gained a lot of useful knowledge, which helped me evetually move to Test Automation.
-And now I do test automation in Javascript, and decided to try myself once again and participate in ongoing Rolling Scopes program.
+I've been working at [EPAM Systems](https://www.epam.com/) for 7 years.<br>
+First 3 years I worked as a Software Quality Engineer. I reached a Senior QA Position and in 2019 I participated in Rolling Scopes school (2019Q3), which is something quite important to me.<br>
+Despite the fact that I didn't manage to complete the program, I gained a lot of useful knowledge, which helped me evetually move to Test Automation.<br>
+And now I do test automation in Javascript, and decided to try myself once again and participate in ongoing Rolling Scopes program.<br>
 
 ## Skills 
 * Software Testing
